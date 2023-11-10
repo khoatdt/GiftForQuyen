@@ -8,8 +8,8 @@ const CONFIG = {
   btnYes: "Quyên biết 😊",
   btnNo: "Quyên không biết 😥",
   question:
-    "Thật ra Khoa muốn hẹn Quyên đi uống nước á. Nếu như một ngày không xa Quyên có rảnh thì Quyên nói cho Khoa biết nha. Khoa sẽ đợi một ngày Quyên rảnh.",
-  btnReply: "Gửi cho Khoa nè",
+    "Thật ra Khoa muốn hẹn Quyên đi uống nước á. Nếu như một ngày không xa Quyên có rảnh thì Quyên nói cho Khoa biết nha. Khoa sẽ đợi phản hồi Quyên nha.",
+  btnReply: "Gửi cho Quyên nè",
   reply: "Nếu như thứ 7 tuần này Quyên rảnh thì Khoa có thể hẹn Quyên đi uống nước được không? ",
   mess: "Tất cả những gì Khoa làm cũng chỉ muốn Quyên được cười nhiều và vui hơn thôi.",
   messDesc:
